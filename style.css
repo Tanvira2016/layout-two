@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    color: azure;
+    background-color: blue;
+    text-align: center;
+    height: 100px;
+}
+.nev{
+    color: aliceblue;
+    background-color: brown;
+    text-align: center;
+    height: 100px;
+}
+.footer{
+    color: black;
+    background-color: blue;
+    text-align: center;
+    height: 100px;
+}
+.right{
+    color: aliceblue;
+    background-color: blueviolet;
+    height: 200px;
+    width: 50%;
+}
+.left{
+    color: aqua;
+    background-color: forestgreen;
+    height: 200px;
+    width: 50%;
+}
+.trouble{
+    display: flex;
+}
+.top{
+    color: bisque;
+    background-color: fuchsia;
+    height: 50%;
+
+}
+.bottom{
+    color: aliceblue;
+    background-color: gold;
+    height: 50%;
+}
+
+
+    
